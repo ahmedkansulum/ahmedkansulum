@@ -76,7 +76,7 @@ I learn and build continuously, and I’m slowly shaping this profile into a **p
 
 - GitHub: [github.com/ahmedkansulum](https://github.com/ahmedkansulum)  
 - Email: _ahmedkansulum@gmail.com_  
-- LinkedIn: _linkedin.com/in/ahmed-kansulum-94206635_  
+- LinkedIn: _https://linkedin.com/in/ahmed-kansulum-94206635_  
 - Kaggle Portfolio: _https://www.kaggle.com/ahmedkansulum_
 - YouTube Portfolio: _add links here if you like_
 
