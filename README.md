@@ -11,7 +11,7 @@ My background combines **banking & fintech analytics**, **data science**, and **
 - 📊 **Data Analytics & BI** – Python, SQL, Power BI, and real-world datasets  
 - 🤖 **Machine Learning for Customer Behaviour** – churn, segmentation, forecasting  
 - 🧰 **Productivity Tools** – desktop apps like Text File Searcher, file comparators, and PDF utilities  
-- 📱 **Android Apps** – Kotlin apps like ScholarBio and a crossword puzzle game
+- 📱 **Android Apps** – Kotlin apps like Dual Video Camera 
 
 ---
 
@@ -48,12 +48,25 @@ My background combines **banking & fintech analytics**, **data science**, and **
 
 ### 🚀 Selected Projects
 
-- 🧭 **Text File Searcher** – Search across .txt files with a simple Tkinter GUI  
-- 🧾 **DataPrep-Pro** – Clean, prepare, and explore datasets faster  
-- 🧱 **TextFileCompareApp** – Compare contents of two text files side by side  
-- 📄 **HexaPDF Editor** – Lightweight PDF editing/annotation tool  
-- 🎓 **ScholarBio (Android)** – Kotlin app with modern Android stack  
-- 🧩 **Crossword Game (Android)** – 1000-word, 100-level crossword with themes and progress tracking  
+- 🧭 **Text File Searcher** – Search across .txt files with a simple Tkinter GUI
+   **available on the Microsoft store:**  https://apps.microsoft.com/detail/9NRSHW0D9B7C?hl=en-us&gl=US&ocid=pdpshare
+  
+- 🧾 **Data Prep Pro** – Clean, prepare, and explore datasets faster
+    
+- 🧱 **Compare Text Files App** – Compare contents of two text files side by side, available on the Microsoft store
+   **available on the Microsoft store:** https://apps.microsoft.com/detail/9NT24MM809V5?hl=en-us&gl=US&ocid=pdpshare
+   
+- 📄 **Hexatech PDF Editor** – Lightweight PDF editing/annotation tool
+  **available on the Microsoft store:** https://apps.microsoft.com/detail/9NGDB00WZQHJ?hl=en-us&gl=US&ocid=pdpshare
+
+- 📄 **Hexatech PDF to Word** – Lightweight PDF to DOCX Converter
+    **available on the Microsoft store:** https://apps.microsoft.com/detail/9NT1F1X7C4GS?hl=en-us&gl=US&ocid=pdpshare
+    
+- 🎓 **Dual Video Camera(Android)** – Kotlin app with modern Android stack  
+  **available on Google Play Store:** https://play.google.com/store/apps/details?id=com.hexatech.dualvideocamera
+
+- 🧭 **Find Files Fast** – Find, Search and Locate files and folders on your computer at lightening speed.
+ **available on the Microsoft store:** https://apps.microsoft.com/detail/9NPC3TH8JVJ1?hl=en-us&gl=US&ocid=pdpshare
 
 > Many of these are available in my repos here on GitHub.
 
